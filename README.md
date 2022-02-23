@@ -1,4 +1,6 @@
 # Museum-Management-System
+- Used SQL Developer in creating the database tables and Procedures using PL/SQL and SQL Queries.
+- Used Microsoft Visual Studio Windows Form Application C# to implement the interactive forms for the system.
 
 # Project Documentation includes:
 1) System ERD.
